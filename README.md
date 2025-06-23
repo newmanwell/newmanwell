@@ -10,7 +10,7 @@ Learn! Learn! Learn!
 
 ## Stack
 ### Frontend
-![HTML]([/assets/images/tux.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3.org%2Fhtml%2Flogo%2F&psig=AOvVaw0Z-gcLGuG9BR3qyN_RvHYU&ust=1750796115256000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCD8vatiI4DFQAAAAAdAAAAABAE))
+![HTML](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3.org%2Fhtml%2Flogo%2F&psig=AOvVaw0Z-gcLGuG9BR3qyN_RvHYU&ust=1750796115256000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCD8vatiI4DFQAAAAAdAAAAABAE)
 
 Number of times I've refreshed my page 😆: ![Visitor Count](https://profile-counter.glitch.me/newmanwell/count.svg)
 
